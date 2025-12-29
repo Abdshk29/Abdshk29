@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Abdullah&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Machine%20Learning%20Engineer%20|%20Python%20Enthusiast%20|%20Anime%20Lover&descAlignY=51&descAlign=50" />
 
 <!-- Typing Animation with Multiple Lines -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+There!+%F0%9F%91%8B;I'm+Muhammad+Abdullah;Machine+Learning+Engineer+%F0%9F%93%8A;Python+Developer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Stories!+%F0%9F%93%96" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+There!+%F0%9F%91%8B;I'm+Muhammad+Abdullah;Machine+Learning+Engineer+%F0%9F%93%8A;Python+Developer+%F0%9F%90%8D;AI+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Stories!+%F0%9F%93%96" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -12,7 +12,8 @@
 
 <br/>
 
-### 🚀 *Bachelors of Science in Artificial Intelligence | Faisalabad, Pakistan 🇵🇰*
+### 🚀 *Bachelor of Science in Artificial Intelligence*
+### 🎓 *National Textile University, Faisalabad, Pakistan 🇵🇰*
 ### 💡 *"In Data We Trust, In Code We Build"*
 
 <br/>
@@ -22,6 +23,7 @@
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/abdshk28)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100039912639477)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdullh._.fr/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdshk28@gmail.com)
 
 <br/>
 
@@ -38,16 +40,17 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> **About Me**
 
 ```python
-class DataScientist:
+class MachineLearningEngineer:
     def __init__(self):
         self.username = "Abdshk29"
         self.name = "Muhammad Abdullah"
         self.location = "Faisalabad, Punjab, Pakistan 🇵🇰"
-        self.education = "Pursuing AI from National Textile University"
+        self.education = "Pursuing B.S. in Artificial Intelligence"
+        self.university = "National Textile University (NTU)"
         
         self.code = {
             "expert": ["Python", "Artificial Intelligence", "Machine Learning"],
-            "learning": ["Deep Learning", "NLP", "Computer Vision", "Machine Learning"],
+            "learning": ["Deep Learning", "NLP", "Computer Vision"],
             "tools": ["Pandas", "NumPy", "Scikit-Learn", "Matplotlib", "Seaborn", "NLTK"]
         }
         
@@ -55,9 +58,9 @@ class DataScientist:
         
         self.current_focus = [
             "🔥 Mastering Machine Learning Algorithms",
-            "📊 Building Data-Driven Projects", 
+            "📊 Building Data-Driven AI Projects", 
             "🚀 Contributing to Open Source",
-            "🎯 Completing Bachelors in AI"
+            "🎯 Completing Bachelor's Degree in AI"
         ]
         
     def say_hello(self):
@@ -99,6 +102,7 @@ me.say_hello()
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **📈 Data Visualization**
 
@@ -130,65 +134,67 @@ me.say_hello()
 
 <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdshk29&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&border_radius=10" alt="Abdullah's Streak Stats" />
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdshk29&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8" alt="Abdullah's Top Languages" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdshk29&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8" alt="Abdullah's Top Languages" />
 
-<img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=Abdshk29&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true&border_radius=10" alt="Abdullah's Contribution Graph" />
+<img width="57%" height="195px" src="https://github-contributor-stats.vercel.app/api?username=Abdshk29&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=c9d1d9&border_radius=10" alt="Abdullah's Top Contributions" />
 
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Abdshk29&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophy" />
+<br/>
+<img src="https://github-profile-trophy.vercel.app/api?username=Abdshk29&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&rank=-?" alt="Trophy" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ---
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> **Featured Projects**
 
 <div align="center">
 
-### 🔥 **Machine Learning and AI Projects** 🔥
+### 🔥 **AI & Machine Learning Projects** 🔥
 
 <table>
 <tr>
 <td width="50%">
 
-<h3 align="center">📊 PRODIGY_DS_01</h3>
+<h3 align="center">🌐 Web-Dev</h3>
 
 <div align="center">  
-<a href="https://github.com/Abdshk29/PRODIGY_DS_01" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdshk29&repo=PRODIGY_DS_01&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="PRODIGY_DS_01" />
+<a href="https://github.com/Abdshk29/Web-Dev" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdshk29&repo=Web-Dev&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="Web-Dev" />
 </a>
 </div>
 
 <p align="center">
-<a href="https://github.com/Abdshk29/PRODIGY_DS_01" target="_blank">
+<a href="https://github.com/Abdshk29/Web-Dev" target="_blank">
 <img src="https://img.shields.io/badge/Code-View-00F7FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>  
+</a>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
-<p><strong>📈 Data Visualization & Analysis</strong> - Creating insightful visualizations and performing exploratory data analysis</p>
+<p><strong>💻 Web Development Course</strong> - Comprehensive web development learning journey covering HTML, CSS, and JavaScript fundamentals</p>
 
 </td>
 
 <td width="50%">
 
-<h3 align="center">🔍 PRODIGY_DS_02</h3>
+<h3 align="center">🤖 EVE-Chatbot</h3>
 
 <div align="center">
-<a href="https://github.com/Abdshk29/PRODIGY_DS_02" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdshk29&repo=PRODIGY_DS_02&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="PRODIGY_DS_02" />
+<a href="https://github.com/Abdshk29/EVE-Chatbot" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdshk29&repo=EVE-Chatbot&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="EVE-Chatbot" />
 </a>
 </div>
 
 <p align="center">
-<a href="https://github.com/Abdshk29/PRODIGY_DS_02" target="_blank">
+<a href="https://github.com/Abdshk29/EVE-Chatbot" target="_blank">
 <img src="https://img.shields.io/badge/Code-View-00F7FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<p><strong>🧹 Data Cleaning & Preprocessing</strong> - Cleaning and transforming raw data for analysis</p>
+<p><strong>💬 AI Chatbot</strong> - Intelligent conversational AI chatbot built using Python and natural language processing</p>
 
 </td>
 </tr>
@@ -196,41 +202,87 @@ me.say_hello()
 <tr>
 <td width="50%">
 
-<h3 align="center">🤖 PRODIGY_DS_03</h3>
+<h3 align="center">📰 Fake-news-detection</h3>
 
 <div align="center">
-<a href="https://github.com/Abdshk29/PRODIGY_DS_03" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdshk29&repo=PRODIGY_DS_03&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="PRODIGY_DS_03" />
+<a href="https://github.com/Abdshk29/Fake-news-detection" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdshk29&repo=Fake-news-detection&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="Fake-news-detection" />
 </a>
 </div>
 
 <p align="center">
-<a href="https://github.com/Abdshk29/PRODIGY_DS_03" target="_blank">
+<a href="https://github.com/Abdshk29/Fake-news-detection" target="_blank">
 <img src="https://img.shields.io/badge/Code-View-00F7FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-<p><strong>🧠 Machine Learning Models</strong> - Building and training ML models for prediction</p>
+<p><strong>🔍 ML Project</strong> - Machine learning model to detect and classify fake news articles using NLP and classification algorithms</p>
 
 </td>
 
 <td width="50%">
 
-<h3 align="center">📉 PRODIGY_DS_04</h3>
+<h3 align="center">👗 Fashion-Recommendation-System</h3>
 
 <div align="center">
-<a href="https://github.com/Abdshk29/PRODIGY_DS_04" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdshk29&repo=PRODIGY_DS_04&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="PRODIGY_DS_04" />
+<a href="https://github.com/Abdshk29/Fashion-Recommendation-System" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdshk29&repo=Fashion-Recommendation-System&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="Fashion-Recommendation-System" />
 </a>
 </div>
 
 <p align="center">
-<a href="https://github.com/Abdshk29/PRODIGY_DS_04" target="_blank">
+<a href="https://github.com/Abdshk29/Fashion-Recommendation-System" target="_blank">
 <img src="https://img.shields.io/badge/Code-View-00F7FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-<p><strong>📊 Advanced Analytics</strong> - Deep dive into data patterns and insights</p>
+<p><strong>🎨 AI Recommendation Engine</strong> - AI-powered fashion recommendation system built with Streamlit framework for personalized styling</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3 align="center">🖼️ Image-Caption-Generator</h3>
+
+<div align="center">
+<a href="https://github.com/Abdshk29/Image-Caption-Generator" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdshk29&repo=Image-Caption-Generator&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="Image-Caption-Generator" />
+</a>
+</div>
+
+<p align="center">
+<a href="https://github.com/Abdshk29/Image-Caption-Generator" target="_blank">
+<img src="https://img.shields.io/badge/Code-View-00F7FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<p><strong>📸 Deep Learning Project</strong> - Neural network-based image captioning system using computer vision and NLP techniques</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">📄 Resume-Analyzer-and-Job-matcher</h3>
+
+<div align="center">
+<a href="https://github.com/Abdshk29/Resume-Analyzer-and-Job-matcher" target="_blank">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdshk29&repo=Resume-Analyzer-and-Job-matcher&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" alt="Resume-Analyzer-and-Job-matcher" />
+</a>
+</div>
+
+<p align="center">
+<a href="https://github.com/Abdshk29/Resume-Analyzer-and-Job-matcher" target="_blank">
+<img src="https://img.shields.io/badge/Code-View-00F7FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<p><strong>💼 AI Resume Analyzer</strong> - AI-powered system to analyze resumes and match them with relevant job descriptions using NLP</p>
 
 </td>
 </tr>
@@ -239,24 +291,22 @@ me.say_hello()
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
----
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/> **What I'm Up To**
 
 ```yaml
 current_status:
-  🔭 Working_On: "Deep Learning and NLP"
-  🌱 Learning: "Advanced Machine Learning & Deep Learning"
-  👯 Collaborating: "Open Source Data Science Projects"
+  🔭 Working_On: "Deep Learning and Natural Language Processing (NLP)"
+  🌱 Learning: "Advanced Machine Learning, Deep Learning & Computer Vision"
+  👯 Collaborating: "Open Source AI/ML Projects"
   🎯 Goals_2025: 
-    - "Master Machine Learning & Deep Learning"
-    - "Build 10+ ML Projects"
-    - "Contribute to Open Source"
-    - "Get a Full-time Data Science Role"
+    - "Master Machine Learning & Deep Learning Algorithms"
+    - "Build 10+ Production-Ready ML Projects"
+    - "Contribute to Open Source AI Communities"
+    - "Complete B.S. in AI and Land Full-Time ML Role"
   ⚡ Fun_Fact: "I binge anime while training ML models! 🎌"
-  🎌 Favorite_Anime: "Attack on Titan, Death Note, Bleachr"
+  🎌 Favorite_Anime: "Attack on Titan, Death Note, Bleach, Demon Slayer"
   📧 Contact: "abdshk28@gmail.com"
+  🌐 Location: "Faisalabad, Pakistan"
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
@@ -289,7 +339,7 @@ current_status:
 
 <br/><br/>
 
-### 💼 **Looking for collaborations and opportunities!**
+### 💼 **Open for Collaborations and Opportunities!**
 ### 📧 **Email:** abdshk28@gmail.com
 ### 🌐 **Let's build something amazing together!**
 
@@ -307,9 +357,9 @@ current_status:
 
 <br/>
 
-## 🐍 **Contribution Snake**
+## 📊 **Contribution Activity**
 
-![snake gif](https://github.com/Abdshk29/Abdshk29/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdshk29&custom_title=Muhammad%20Abdullah's%20Contribution%20Graph&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area_color=0D1117&title_color=00F7FF&area=true" alt="Contribution Graph" />
 
 </div>
 
