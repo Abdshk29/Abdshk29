@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Abdullah&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Data%20Science%20Wizard%20|%20Python%20Enthusiast%20|%20Anime%20Lover&descAlignY=51&descAlign=50" />
 
 <!-- Typing Animation with Multiple Lines -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+There!+%F0%9F%91%8B;I'm+Muhammad+Abdullah;Data+Science+Explorer+%F0%9F%93%8A;Python+Developer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Stories!+%F0%9F%93%96" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+There!+%F0%9F%91%8B;I'm+Muhammad+Abdullah;Machine+Learning+Engineer+%F0%9F%93%8A;Python+Developer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Stories!+%F0%9F%93%96" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <br/>
 
-### 🚀 *Prodigy InfoTech Intern | Faisalabad, Pakistan 🇵🇰*
+### 🚀 *Bachelors of Science in Artificial Intelligence | Faisalabad, Pakistan 🇵🇰*
 ### 💡 *"In Data We Trust, In Code We Build"*
 
 <br/>
@@ -43,13 +43,12 @@ class DataScientist:
         self.username = "Abdshk29"
         self.name = "Muhammad Abdullah"
         self.location = "Faisalabad, Punjab, Pakistan 🇵🇰"
-        self.current_work = "Data Science Intern @ Prodigy InfoTech"
-        self.education = "Pursuing AI & Data Science"
+        self.education = "Pursuing AI from National Textile University"
         
         self.code = {
-            "expert": ["Python", "Data Analysis", "Machine Learning"],
-            "learning": ["Deep Learning", "NLP", "Computer Vision"],
-            "tools": ["Pandas", "NumPy", "Scikit-Learn", "Matplotlib", "Seaborn"]
+            "expert": ["Python", "Artificial Intelligence", "Machine Learning"],
+            "learning": ["Deep Learning", "NLP", "Computer Vision", "Machine Learning"],
+            "tools": ["Pandas", "NumPy", "Scikit-Learn", "Matplotlib", "Seaborn", "NLTK"]
         }
         
         self.interests = ["Anime 🎌", "Data Visualization 📊", "Problem Solving 🧩"]
@@ -58,7 +57,7 @@ class DataScientist:
             "🔥 Mastering Machine Learning Algorithms",
             "📊 Building Data-Driven Projects", 
             "🚀 Contributing to Open Source",
-            "🎯 Completing Data Science Internship at Prodigy InfoTech"
+            "🎯 Completing Bachelors in AI"
         ]
         
     def say_hello(self):
@@ -66,7 +65,7 @@ class DataScientist:
         print("📧 Email: abdshk28@gmail.com")
         print("🌐 Open for collaborations and opportunities!")
 
-me = DataScientist()
+me = MachineLearningEngineer()
 me.say_hello()
 
 # Output:
@@ -149,7 +148,7 @@ me.say_hello()
 
 <div align="center">
 
-### 🔥 **Prodigy InfoTech Data Science Internship Projects** 🔥
+### 🔥 **Machine Learning and AI Projects** 🔥
 
 <table>
 <tr>
@@ -247,7 +246,7 @@ me.say_hello()
 
 ```yaml
 current_status:
-  🔭 Working_On: "Data Science Internship @ Prodigy InfoTech"
+  🔭 Working_On: "Deep Learning and NLP"
   🌱 Learning: "Advanced Machine Learning & Deep Learning"
   👯 Collaborating: "Open Source Data Science Projects"
   🎯 Goals_2025: 
@@ -256,7 +255,7 @@ current_status:
     - "Contribute to Open Source"
     - "Get a Full-time Data Science Role"
   ⚡ Fun_Fact: "I binge anime while training ML models! 🎌"
-  🎌 Favorite_Anime: "Attack on Titan, Death Note, Demon Slayer"
+  🎌 Favorite_Anime: "Attack on Titan, Death Note, Bleachr"
   📧 Contact: "abdshk28@gmail.com"
 ```
 
@@ -324,7 +323,7 @@ current_status:
 
 <br/>
 
-## 🌟 **"Data Science is not just about numbers, it's about telling stories"** 🌟
+## 🌟 **"Machine Learning is not just about models, it's about telling stories"** 🌟
 
 <br/>
 
