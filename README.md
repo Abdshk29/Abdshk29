@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with GIF -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Abdullah&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Data%20Science%20Wizard%20|%20Python%20Enthusiast%20|%20Anime%20Lover&descAlignY=51&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Abdullah&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Machine%20Learning%20Engineer%20|%20Python%20Enthusiast%20|%20Anime%20Lover&descAlignY=51&descAlign=50" />
 
 <!-- Typing Animation with Multiple Lines -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+There!+%F0%9F%91%8B;I'm+Muhammad+Abdullah;Machine+Learning+Engineer+%F0%9F%93%8A;Python+Developer+%F0%9F%90%8D;Machine+Learning+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Stories!+%F0%9F%93%96" alt="Typing SVG" /></a>
